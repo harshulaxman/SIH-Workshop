@@ -1,25 +1,27 @@
 # SIH-Workshop
 
 ## 1. First Slide
+![image](https://github.com/user-attachments/assets/b84efd69-32e3-460c-a14d-7e6b56f48ebc)
 
-![image](https://github.com/user-attachments/assets/424d57ee-512b-41d1-8c89-50b60cf2b1a1)
 
 ## 2. Second Slide
+![image](https://github.com/user-attachments/assets/28fe7283-81c8-4ebd-90fb-fef35b7bd287)
 
-    ![image](https://github.com/user-attachments/assets/3482a215-2207-4d5f-8c3c-304935e002f3)
+    
 
 ## 3. Third Slide
 
-    ![image](https://github.com/user-attachments/assets/85b7dcc4-e173-441f-9137-5ed6b7613308)
+![image](https://github.com/user-attachments/assets/e3b69a83-3808-42ee-a8d4-b31bc34e28d4)
+
 
 ## 4. Fourth Slide
+![image](https://github.com/user-attachments/assets/d8a1b6de-4118-4573-b223-433848985e0d)
 
-    ![image](https://github.com/user-attachments/assets/c3220fc5-592a-4cec-a395-ba3112fb42af)
 
 ## 5. Fifth Slide
 
-    ![image](https://github.com/user-attachments/assets/9ca95401-67c5-474d-b472-7e90ed3861b9)
-## 6. Sixth Slide
- 
+![image](https://github.com/user-attachments/assets/a76b94d9-54d9-4bb3-a6f1-b205df688aab)
 
-    ![image](https://github.com/user-attachments/assets/13521de4-2543-4839-b670-8ff77cd02627)
+## 6. Sixth Slide
+ ![image](https://github.com/user-attachments/assets/9dad5957-6eb6-406b-b1b4-27558f10917c)
+
